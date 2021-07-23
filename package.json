@@ -1,0 +1,20 @@
+{
+  "name": "webpiano",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "keywords": [
+    "piano",
+    "web",
+    "keyboard"
+  ],
+  "author": "hafizul haque <hafizulhaque.cse.cuet@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "static-server": "^2.2.1"
+  }
+}
